@@ -29,9 +29,9 @@ dev = [
 include = "omnicart_pipeline"
 from = "."
 
-[tool.poetry.scripts]
-omnicart-pipeline = "omnicart_pipeline.cli:main"
 
+[tool.poetry.scripts] at work
+omnicart-pipeline = "omnicart_pipeline.cli:main"
 
 [[tool.poetry.include]]
 path = "omnicart_pipeline/pipeline.cfg"
