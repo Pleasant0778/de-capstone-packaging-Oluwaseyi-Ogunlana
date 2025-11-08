@@ -275,7 +275,7 @@ dev = [
 include = "omnicart_pipeline"
 from = "."
 
-[tool.poetry.scripts] at work
+[tool.poetry.scripts]
 omnicart-pipeline = "omnicart_pipeline.cli:main"
 
 
