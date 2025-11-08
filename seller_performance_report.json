@@ -1,0 +1,52 @@
+{
+    "david morrison":{
+        "total_revenue":5775.7,
+        "product_count":1,
+        "average_price":22.3
+    },
+    "david russell":{
+        "total_revenue":11760.0,
+        "product_count":1,
+        "average_price":168.0
+    },
+    "derek powell":{
+        "total_revenue":278000.0,
+        "product_count":1,
+        "average_price":695.0
+    },
+    "don romer":{
+        "total_revenue":6875.7,
+        "product_count":1,
+        "average_price":15.99
+    },
+    "jimmie klein":{
+        "total_revenue":51230.0,
+        "product_count":1,
+        "average_price":109.0
+    },
+    "john doe":{
+        "total_revenue":13194.0,
+        "product_count":1,
+        "average_price":109.95
+    },
+    "kate hale":{
+        "total_revenue":12992.0,
+        "product_count":1,
+        "average_price":64.0
+    },
+    "kevin ryan":{
+        "total_revenue":27995.0,
+        "product_count":1,
+        "average_price":55.99
+    },
+    "miriam snyder":{
+        "total_revenue":3996.0,
+        "product_count":1,
+        "average_price":9.99
+    },
+    "william hopkins":{
+        "total_revenue":1099.0,
+        "product_count":1,
+        "average_price":10.99
+    }
+}
